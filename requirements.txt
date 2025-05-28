@@ -1,0 +1,6 @@
+flask
+gunicorn
+pandas
+xlsxwriter
+supabase
+python-dotenv
